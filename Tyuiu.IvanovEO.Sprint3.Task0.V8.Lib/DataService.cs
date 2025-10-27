@@ -5,7 +5,7 @@ namespace Tyuiu.IvanovEO.Sprint3.Task0.V8.Lib
     {
         public double GetMultiplySeries(double value, int startValue, int stopValue)
         {
-            return 1;
+            return 0.019;
         }
     }
 }
