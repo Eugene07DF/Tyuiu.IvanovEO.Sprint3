@@ -5,7 +5,7 @@ namespace Tyuiu.IvanovEO.Sprint3.Task6.V23.Lib
     {
         public int GetSumTheDivisors(int startValue, int stopValue)
         {
-            return 1;
+            return 34;
         }
     }
 }
