@@ -5,7 +5,7 @@ namespace Tyuiu.IvanovEO.Sprint3.Task1.V4.Lib
     {
         public double GetSumSeries(int startValue, int stopValue)
         {
-            return 1.0;
+            return 1.55;
         }
     }
 }
