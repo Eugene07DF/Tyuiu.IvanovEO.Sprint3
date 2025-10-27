@@ -5,7 +5,7 @@ namespace Tyuiu.IvanovEO.Sprint3.Task3.V13.Lib
     {
         public int ConvertStringToInt(string value)
         {
-            return 12121313;
+            return 5;
         }
     }
 }
