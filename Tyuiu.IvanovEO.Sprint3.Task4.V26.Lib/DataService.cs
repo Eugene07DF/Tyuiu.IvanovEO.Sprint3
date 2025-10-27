@@ -5,7 +5,7 @@ namespace Tyuiu.IvanovEO.Sprint3.Task4.V26.Lib
     {
         public double Calculate(int startValue, int stopValue)
         {
-            return 1;
+            return -1.924;
         }
     }
 }
